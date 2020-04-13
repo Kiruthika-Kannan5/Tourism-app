@@ -1,0 +1,13 @@
+{
+	"id": 6,
+	"state":"Tamil Nadu",
+	"district":"Kanyakumari",
+	"location":"cape comorin",
+	"thumbnail":"http://10.5.50.199:8080/html/images/tourism/1006/main.jpg",
+	"image1":"http://10.5.50.199:8080/html/images/tourism/1006/1.jpg",
+	"image2":"http://10.5.50.199:8080/html/images/tourism/1006/2.jpg",
+	"image3":"http://10.5.50.199:8080/html/images/tourism/1006/3.jpg",
+	"image4":"http://10.5.50.199:8080/html/images/tourism/1006/4.jpg",
+	"lat":"8.077839",
+	"long":"77.554014"
+}

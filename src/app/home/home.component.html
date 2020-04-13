@@ -1,0 +1,38 @@
+<header>
+  <div class= "image1 ">
+    <img src="assets/Logo.png"  alt="Logo">
+  </div>
+  <input type="text" placeholder="Search">
+</header>
+  <div class="navbar">
+    <h1>Home</h1>
+    <h2>Google</h2>
+  </div>
+  <div class="picture">
+    <img src="assets/img1.jpg"  alt="welcome">
+  </div>
+  <h3>Welcome to PK Tourism</h3>
+  <div class="content">
+    Tourism is travel for pleasure or business; also the theory and practice of touring, the business of attracting, accommodating, and entertaining
+    tourists, and the business of operating tours.[2] The World Tourism Organization defines tourism more generally, in terms which go "beyond the 
+    common perception of tourism as being limited to holiday activity only", as people "traveling to and staying in places outside their usual 
+    environment for not more than one consecutive year for leisure and not less than 24 hours, business and other purposesTourism can be domestic
+    (within the traveller's own country) or international, and international tourism has both incoming and outgoing implications on a country's 
+    balance of payments.Tourism numbers declined as a result of a strong economic slowdown (the late-2000s recession) between the second half of 2008 
+    2009, and in consequence of the outbreak of the 2009 H1N1 influenza virus,[4][5] but slowly recovered. Globally, international tourism receipts
+    grew to US$1.03 trillion (€740 billion) in 2005, corresponding to an increase in real terms of 3.8% from 2010
+  </div>
+  <table>
+    <tr>
+      <th>id</th>
+      <th>Tourist Spot</th>
+      <th>Location</th>      
+  </tr>
+  <tr *ngFor='let location of touristLocations' (click)="selectedLocation(location)">
+   <td>{{ location.id }}</td>
+   <td>{{ location.name }}</td>
+   <td>{{ location.location }}</td>
+  </tr>
+  </table>
+    
+<footer>copywright@(kiruthika)</footer>

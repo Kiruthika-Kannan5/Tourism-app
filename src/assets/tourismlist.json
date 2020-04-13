@@ -1,0 +1,65 @@
+	{
+    "tntourismdetails": [{
+            "place1": {
+                "id": 1,
+                "name": "ooty Lake",
+				"location": "Ooty"
+				
+            }
+        }, {
+            "place2": {
+                "id": 2,
+                "name": "Kodaikanal Lake",
+				"location": "Kodaikanal"
+            }
+        }, {
+            "place3": {
+                "id": 3,
+                "name": "Meenakshi Amman Temple",
+				"location": "Madurai"
+            }
+        }, {
+            "place4": {
+                "id": 4,
+                "name": "Thirumalai Nayakkar Mahal",
+				"location": "Madurai"
+            }
+        }, {
+            "place5": {
+                "id": 5,
+                "name": "Shore Temple",
+				"location": "Mamalapuram"
+            }
+        }, {
+            "place6": {
+                "id": 6,
+                "name": "Thiruvalluvar Statue",
+				"location": "Kanniyakumari"
+            }
+        }, {
+            "place7": {
+                "id": 7,
+                "name": "Brihadeeswarar Temple",
+				"location": "Tanjore"
+            }
+        }, {
+            "place8": {
+                "id": 8,
+                "name": "Nilgiri mountains",
+				"location": "Nilgiri"
+            }
+        }, {
+            "place9": {
+                "id": 9,
+                "name": "Ooty Avalanche",
+				"location": "Ooty"
+            }
+        }, {
+            "place10": {
+                "id": 10,
+                "name": "Pancha Rathas",
+				"location": "Mamalapuram"
+            }
+        }
+    ]
+}
